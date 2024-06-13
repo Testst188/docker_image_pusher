@@ -1,9 +1,9 @@
 --platform=linux/arm64 linuxserver/jellyfin:latest
-linuxserver/nextcloud:latest
-moelin/1panel:latest
-hslr/sun-panel:latest
-yidadaa/chatgpt-next-web:latest
-corentinth/it-tools:latest
-eorendel/photopea:latest
-linuxserver/qbittorrent:latest
-metatube/metatube-server:latest
+--platform=linux/arm64 linuxserver/nextcloud:latest
+--platform=linux/arm64 moelin/1panel:latest
+--platform=linux/arm64 hslr/sun-panel:latest
+--platform=linux/arm64 yidadaa/chatgpt-next-web:latest
+--platform=linux/arm64 corentinth/it-tools:latest
+--platform=linux/arm64 eorendel/photopea:latest
+--platform=linux/arm64 linuxserver/qbittorrent:latest
+--platform=linux/arm64 metatube/metatube-server:latest
