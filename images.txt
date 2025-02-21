@@ -1,6 +1,10 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 linuxserver/jellyfin:latest
+--platform=linux/arm64 linuxserver/nextcloud:latest
+--platform=linux/arm64 moelin/1panel:latest
+--platform=linux/arm64 hslr/sun-panel:latest
+--platform=linux/arm64 yidadaa/chatgpt-next-web:latest
+--platform=linux/arm64 corentinth/it-tools:latest
+--platform=linux/arm64 eorendel/photopea:latest
+--platform=linux/arm64 linuxserver/qbittorrent:latest
+--platform=linux/arm64 metatube/metatube-server:latest
+--platform=linux/arm64 homeassistant/home-assistant:2025.2.4
