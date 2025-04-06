@@ -1,2 +1,1 @@
 --platform=linux/arm64 moelin/1panel:latest
---platform=linux/arm64 homeassistant/home-assistant:2025.2.4
